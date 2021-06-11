@@ -12,6 +12,7 @@ tracert-as.py google.com
 IP-адрес (или DNS-имя) передается в качестве аргумента командной строки
 
 ### Пример работы
+```
 (venv) C:\Users\Loliconshik\PycharmProjects\sntp_server>python tracert-as.py google.com
 №    IP                  AS        Country   Provider
 0    10.113.224.1        bogon     -         -
@@ -27,3 +28,4 @@ IP-адрес (или DNS-имя) передается в качестве ар�
 10   172.253.65.159      15169     US        AS Google LLC
 11   172.253.70.51       15169     US        AS Google LLC
 12   173.194.73.100      15169     US        AS Google LLC
+```
